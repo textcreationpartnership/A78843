@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties last speech in the Isle of Weight [sic]. Concerning a hot game to bee plaid in the moneth of May; and a declaration of his Majesties proceedings at Carisbrooke castle, touching the present affairs of the kingdom of England. With an exact relation of the last fight, betwixt the Parliaments forces, and Col. Poyer, and the number of men slain and taken. Also, the proceedings of the inhabitants in the West and the full particulars touching his Highnesse the Prince of Wales, and the Scots.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78843</idno><idno type="EEBO-CITATION">99864148</idno>
+  <idno type="VID">161626</idno>
+  <idno type="EEBO-PROQUEST">2248554086</idno>
+  
+            <idno type="STC">Wing C2380</idno>
+            <idno type="STC">Thomason E437_3</idno>
+            <idno type="STC">ESTC R204683</idno>
+            <idno type="STC">ESTC R204741</idno>
+            <idno type="PROQUEST">99864148</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864148e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161626)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties last speech in the Isle of Weight [sic]. Concerning a hot game to bee plaid in the moneth of May; and a declaration of his Majesties proceedings at Carisbrooke castle, touching the present affairs of the kingdom of England. With an exact relation of the last fight, betwixt the Parliaments forces, and Col. Poyer, and the number of men slain and taken. Also, the proceedings of the inhabitants in the West and the full particulars touching his Highnesse the Prince of Wales, and the Scots.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for R.G,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 25."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161626:1"/>
+            <p>The Kings MAIESTIES LAST SPEECH IN The Isle of WEIGHT.</p>
+            <p>CONCERNING A hot GAME to bee plaid in the Moneth of May; And a Declaration of His Majesties proceedings at <hi>Cartsbrooke</hi> Castle, coue<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the presen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irs of the Kingdom of <hi>England.</hi>
+            </p>
+            <p>With an exact Relation of the last Fight, be<g ref="char:EOLunhyphen"/>twixt the Parliaments Forces, and Col. <hi>Poyer,</hi> and the number of men slain and taken. Also, the procee<g ref="char:EOLhyphen"/>dings of the Inhabitants in the W<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st And <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he full par<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iculars <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouching his H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghnesse t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Prince of <hi>Wales,</hi> and the <hi>Scots.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> for <hi>R. G. Anno Dom.</hi> 1648</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161626:2"/>
+            <pb n="1" facs="tcp:161626:2"/>
+            <head>From the Isle of <hi>Weight. April,</hi> 18.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have of late been much terrified as it were by the many and various reports brought hither, of the devisions and di<g ref="char:EOLhyphen"/>stractions of the whole Kingdome, but specially in that we have no good newes from <hi>Wales,</hi> nor our brethren of <hi>Scotland,</hi> The uncontrouled behaviour of <hi>Poyer,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>VVelsh</hi> Malignants, is dayly renewed amongst us, onely we hope to heare in some time, of the proceedings of Colonell <hi>Horton,</hi> against those disturbers of the king<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omes welfare, against whom, as i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is said, he is marched against, and is neere upon ingaging; here hath also beene some re<g ref="char:EOLhyphen"/>p rts of distu bances in <hi>Cheshire,</hi> and some ta ke, as if <hi>Swan<g ref="char:EOLhyphen"/>ley,</hi> a Commander at Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had deserted the Parliament with some Shipping, but yet I cannot learne, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at grounds they have for this report, or whether it be true, or not true, I can<g ref="char:EOLhyphen"/>not averre; but yet we dayly see to our griefe, that many in trust proove base enough, and bet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay the trust reposed in them, for whom doub esse the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is vengeance determined, which in convenient time will lay hold on them, and give them the just recompence of the reward that appertaines unto such perfi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious wretches.</p>
+            <p>As for his Majestie he is in h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alth, and merry, and some<g ref="char:EOLhyphen"/>times very pleasant in his discourse, and free in his expressi<g ref="char:EOLhyphen"/>ons
+<pb n="2" facs="tcp:161626:3"/> to the Governour, and other about him for his morning exercise; his Majesty most commonly walks about the Ca<g ref="char:EOLhyphen"/>stle, and discourses with his attendance, till towards dinner time, and after dinner, if the weather be f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire, his continuall sports is Bowles, it being, as his Majestie saith, an exercise whereunto he hath been continua<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly add<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and which is the chiefest pastime <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Majestie delights in.</p>
+            <p>It is suspect d that sometimes his Majestie receives letters from <hi>France,</hi> and other parts, but how, or by what meanes, it is not knowne, but it is supposed by his discourse of the generall aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ires of this kingdom to forraign parts, with some things which causeth much wonder, to imagine how such things should come to his Majesties knowledge,</p>
+            <p>This day being the 18. of <hi>April,</hi> many came unto his Ma<g ref="char:EOLhyphen"/>jest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to be touched for the Kings evill, as they call it, and as he came down from dinner, they were admitted into his Ma<g ref="char:EOLhyphen"/>jestie presence, where He touched them, and prayed with them, and so dismissed them; after that he went to Bowles, and being in bowling alley, he suddenly stood, and spake as it were, in a rusticall manner, or as if he meant so, saying, it wil be hot bowling in May. This is the news that for the present I can impart unto you; our feares are many, the Lord settle things as may be most for his glory the advancement of Re<g ref="char:EOLhyphen"/>ligion, the peace of the Church and State, So prayeth</p>
+            <closer>
+               <dateline>
+                  <hi>Carisbrooke Castle,</hi>
+                  <date>
+                     <hi>April</hi> 18. 1618.</date>
+               </dateline>
+               <signed>Your assured friend, <hi>I. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>SCotland</hi> affords little newes this weeke, onely the Parlia<g ref="char:EOLhyphen"/>ment sits close, and ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe their resolutions private, all things do stand at a stay, neither is it certain knowne what the result will be, the Malignants still are in expectation, and
+<pb n="3" facs="tcp:161626:3"/> take as if their hopes were great; and the things will be or<g ref="char:EOLhyphen"/>dered so, as shall prove to their advantage, the English in <hi>E<g ref="char:EOLhyphen"/>denburgh</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re many, and daily incre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, who with the <hi>Scots</hi> Malignants, are very desirous of a Warre wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>England.</hi> But it is h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped, they will not prevaile, God in his wisdome doe what is best for us the Ministers are very desirous o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peace, and continually move the Parl. thereto, neither will they consent to making of a war with England, which will bee a chief means to frustrate the desires of the Malignant Party; but the Malignants give ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that if an Army be not raised to come against England, and if the Parl. will not consent to the raising of an Army, they will r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se an Army of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir own cost, which they say they are able to do, but that is no<g ref="char:EOLhyphen"/>thing but a flourish, for without shelter and countenance from the Parliament, their power is of no value.</p>
+            <p>The Eord <hi>Lee</hi> is supposed to bee on his jou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ney towards <hi>London,</hi> and brings Propositions from the Parl. of Scotland to the Parliament of England; what the event will be, a li<g ref="char:EOLhyphen"/>tle time will shew, the English Commissioners labour to the uttermost, to beget a right understanding of all things, and use their constant and utmost endeavours to discharge the trust reposed in them, they are admitted to treat with the Commitee of Danger, and daily wait, and endeavor to see what conclusion the Scots will make, and what answer they shall receive from the Scots Parliament: so desirous are t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey to breed a good understanding between the Scots and Eng<g ref="char:EOLhyphen"/>lish, and that they may not frustrate the expecta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of the English Parliament, nor b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tray trust committed to them: also many of the well affected of the Kingdome of Sco<g ref="char:EOLhyphen"/>land, doe dayly forsee the maintenance of the Con<g ref="char:EOLhyphen"/>junction and Union betweene the two Kingdomes,
+<pb n="4" facs="tcp:161626:4"/> as the interest of all honest men binds them to do, and to say the truth, these men deal plainly, and as men that are c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sible of their present condition. I h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe to see the time when I shall send you better newes: this is all for present, but that I am</p>
+            <closer>
+               <dateline>
+                  <hi>Ed<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nburgh</hi>
+               </dateline>
+               <signed>Yours <hi>W. R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>The Copy of a Petition from the <hi>West,</hi> agree upon, and intended to be presented to the Honourable Commons assembled in Parliam nt.</head>
+            <p>First in all humility, acknowledging the constant call of the Parliament to preserve the peace, and safet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this King<g ref="char:EOLhyphen"/>dom, &amp; esp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cialy in those late timous Vo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es concerning the King, &amp;c. We desire to present unto that great Assembly, our humble thanks in that behalfe, and our Resolutions unanimously to adheare unto them in preservation there<g ref="char:EOLhyphen"/>of.</p>
+            <p>We do likewise present unto your considerati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, the great &amp; apparent danger under, which this Country lyeth, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rea<g ref="char:EOLhyphen"/>son of the malignant, and appost<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te persons therein and do humbly desi e to represent the same unto the Parliamens, that a timely and speedy course may be taken to settle peace, and to free us from the power of all Malignants, Newtrals, and Appostates.</p>
+            <p>We further d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> remonstrate the gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at dearth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne and graine amongst us, and we do pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt the excessive mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titude of Aleh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uses an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Malsters to be the cause thereof; we therefore desire, that or<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers may be granted to the Justices of the Pea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, commanding them to suppresse all unnecess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uses unto a convenien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nūber: as also to lessen the great number of M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sters, and to pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in execution the Lawes a<g ref="char:EOLhyphen"/>gainst Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, Regrators, and Ingrossers, and diso derly Alehouses licensed and not licensed, that the penalties incur<g ref="char:EOLhyphen"/>red by them, may be constantly and impartially levied, not<g ref="char:EOLhyphen"/>withstanding
+<pb n="5" facs="tcp:161626:4"/> the contradiction of any man, as hath been lately practised.</p>
+            <p>That notwithstanding divers Ordinances of Parliament to the contrary: Delinque<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, and men of ill affection to the Parliament, are chosen, and still retained and placed i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Offi<g ref="char:EOLhyphen"/>ces of judicatre and trust, divers now being Recorders, Town Clarkes, Burgesses of Corporations, Coroners S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewards of Courts, Constables, and Bailiff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of hundreds, and other in<g ref="char:EOLhyphen"/>feriour Officers in places of publike imployment, whereby the service of the Parliament is much retarded, and the Or<g ref="char:EOLhyphen"/>dinances thereof not at all, or but negligently, put in execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And that Deli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quents, and such as are not within Articles of Treaty, do openly practice, as Councellers, Attorneys, &amp; Solicitors of the Law, &amp;c. by whom frivolous, and vexati<g ref="char:EOLhyphen"/>ous actions are brought, and violently prosecuted against the well affected party.</p>
+            <p>Also we further humbly desire that the contents hereon may be effectually put in execution.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>From Swansey <date>Aprill <hi>17. 1648.</hi>
+                  </date>
+               </dateline>
+               <salute>SIR,</salute>
+            </opener>
+            <p>COlonell <hi>Horton</hi> with the forces ordered to reduce <hi>Poyer,</hi> all advanced as farre as <hi>Keath,</hi> and Col. <hi>Okey</hi> is joyned with them, the enemy is incouraged, on this side the River <hi>Towry,</hi> wch runneth through the middle of <hi>Carmarthenshire,</hi> whither the forces are marching to give them battell, if they have but the stomack to figh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, some skirmishes t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey have had already, Col. <hi>Flemming</hi> gave them an Alarm at <hi>Have<g ref="char:EOLhyphen"/>thry,</hi> where with a party of Horse and Dragoones, he beat up their quarters, and after a light skirmish tooke 12. Horse and men prisoners, it is supposed that most of the Of<g ref="char:EOLhyphen"/>ficers and Souldiers, that were under the Command of <hi>Laughorne,</hi> will come into the Parliaments forc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s when they see they must fight. 2. Captains are com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in already, &amp; <hi>Pow<g ref="char:EOLhyphen"/>ells</hi>
+               <pb n="6" facs="tcp:161626:5"/> declaring absolutely for the King, wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l bring in others; Malignants come in daily unto them, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Commonalty apace, chi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fly for them, and shew themselves in great num<g ref="char:EOLhyphen"/>bers at the Randezvouz; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut when they shall come to fight, they wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ickly leave them, and as it were sl p their ne ks out of the Coller again; want of Horsmeate is a great trouble to the Parl. Forces upon the barre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mountains, and want of mony as great, without which it is hard to purchase other provisions.</p>
+            <closer>
+               <dateline>
+                  <hi>Swausey</hi>
+                  <date>
+                     <hi>Aprill</hi> 17. 16<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a Letter from France.</head>
+            <p>Here hath been some dispute as if the Prince should have set forward for <hi>Scotland</hi> or <hi>Wales,</hi> without farther d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but he knowes not what to think of the <hi>Scots</hi> for the present, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>so the Prince expects aid from the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rench, but they are unwil<g ref="char:EOLhyphen"/>ling to meddle in a business<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which concernes them not, or will not prove advantagious unto them; but on the contrary, it may cause a division amongst themselves, because the greatest part of <hi>France</hi> is against any such undertakings.</p>
+            <p>The young King, wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Queen Regent, and the Duke of <hi>Anjou,</hi> his brother gave the Queen of <hi>England</hi> and Prince <hi>Charles</hi> a visit, lately near St. <hi>Jermans,</hi> where they then were, but it is verily believed, that the Prince will not have halfe that favour and assistance from the <hi>French</hi> that he expects.</p>
+            <p>The Parl. or body representative of this Kingdom, ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e re<g ref="char:EOLhyphen"/>solved on Thursday nex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, (all other busines bring la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d aside) to meet together no purpose, to find out and agree upon a speedy meanes for the setling and establishing the peace of this Kingdom, and to compose the many differences and di<g ref="char:EOLhyphen"/>str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions thereof; therefore the Ministers are desired in their respective places, to represent their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arnest suppl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cations un<g ref="char:EOLhyphen"/>to God Almighty, for a blessing upon their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edings.</p>
+            <closer>
+               <signed>Imprimatur <hi>Gi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bert Mabbot.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
